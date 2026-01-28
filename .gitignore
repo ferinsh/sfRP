@@ -1,0 +1,8 @@
+.venv
+final.csv
+hourly_power_features.csv
+hourly_power_features.csv
+test.csv
+train.csv
+val.csv
+household_power_consumption.csv
