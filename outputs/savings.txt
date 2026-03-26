@@ -1,4 +1,4 @@
-Grid Cost With Solar: $613.46
+Grid Cost With Solar: $612.41
 Cost Without Solar: $1035.28
-Total Savings: $421.82
-CO2 Saved (kg): 771.27
+Total Savings: $422.87
+CO2 Saved (kg): 774.04
